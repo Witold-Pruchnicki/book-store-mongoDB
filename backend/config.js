@@ -5,5 +5,5 @@ export const mongoDBURL =
 
 // Please create a free database for yourself.
 // This database will be deleted after tutorial.
-
-export const baseUrl="https://fullstackazure-app.azurewebsites.net/"
+const baseUrl="https://fullstackazure-app.azurewebsites.net/"
+export default baseUrl;
